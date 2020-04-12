@@ -2,6 +2,8 @@
 
 [Countries - How many do you know?](https://apps.apple.com/us/app/countries-how-many-do-you-know/id899400115)
 
+![App screen](https://github.com/oihamza/Countries/blob/master/Screen%20Shot%202020-04-12%20at%207.31.00%20PM.png)
+
 How well do you know the world?
 
 Enter any Country’s name and watch the map clearly highlight. Pan around the interactive map and enter as many countries you can name!

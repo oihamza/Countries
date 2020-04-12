@@ -12,16 +12,16 @@ Once your timer runs out, find out how much of a genius (or not) you really are.
 
 
 This game accepts answers in:
-• English
-• French
-• The local language of each Country.
+→ English
+→ French
+→ The local language of each Country.
 
 Rules:
-|>Enter the Country’s name and it will go on the map straight away
-|> Easily tap just once on the map to zoom in and zoom out.
-|>Abbreviations and slight misspellings are accepted for most countries
-|> Answers have to be a sovereign nation, so answers like United Kingdom are accepted, but not England, Scotland, etc.
-|> ‘Extra Credit’ Countries and territories are given to boost possible points earned
+→ Enter the Country’s name and it will go on the map straight away
+→ Easily tap just once on the map to zoom in and zoom out.
+→ Abbreviations and slight misspellings are accepted for most countries
+→ Answers have to be a sovereign nation, so answers like United Kingdom are accepted, but not England, Scotland, etc.
+→ ‘Extra Credit’ Countries and territories are given to boost possible points earned
 
 Download on iOS: https://apps.apple.com/us/app/countries-how-many-do-you-know/id899400115
 

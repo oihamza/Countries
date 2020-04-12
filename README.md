@@ -1,4 +1,4 @@
-# Countries
+# Countries Game
 
 [Countries - How many do you know?](https://apps.apple.com/us/app/countries-how-many-do-you-know/id899400115)
 

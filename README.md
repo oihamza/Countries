@@ -25,4 +25,4 @@ Rules:<br>
 
 Download on iOS: https://apps.apple.com/us/app/countries-how-many-do-you-know/id899400115<br>
 
-Challenge your friends in Games Center, and connect with me on Twitter [@oiHamza](twitter.com/oihamza) 👋🏽
+Challenge your friends in Games Center, and connect with me on Twitter [@oiHamza](https://twitter.com/oihamza) 👋🏽
